@@ -1,7 +1,7 @@
-- 👋 Siema, jestem michvl.
-- 👀 Interesuję się programowaniem w językach Lua, JavaScript, Java.
-- 🎮 Pracuje na platformach tkj. Discord lub MTA:SA
-- 💻 Kontakt:
+- 👋 michvl.
+- 👀 Programming in Java, Lua, JavaScript.
+- 💻 Intelij IDE / Visual Studio Code
+- 🎮 Contact:
   - discord: michvl.#9379
 
 
