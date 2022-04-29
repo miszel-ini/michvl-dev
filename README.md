@@ -1,5 +1,6 @@
-- 👋 michvl.
-- 👀 Programming in Java, Lua, JavaScript.
+- 👋 Michał
+- 🎉 17 yo
+- 👀 interesed programming in Java, Lua 
 - 💻 Intelij IDE / Visual Studio Code
 - 🎮 Contact:
   - discord: michvl.#9379
