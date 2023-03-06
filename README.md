@@ -1,8 +1,8 @@
 - 👋 Michał
-- 👀 interesed programming in Java, Lua 
-- 💻 Intelij, Visual Studio Code
+- 👀 software; java, jda, minecraft, discord 
+- 💻 future java developer
 - 🎮 Contact:
-  - discord: michvl.#9379
+  - discord: michal#3454
   - ig: miszel.ini
   
 
