@@ -1,5 +1,5 @@
 - 👋 Michał
-- 👀 software; java, jda, minecraft, discord 
+- 👀 software; java, javascript, lua
 - 💻 future java developer
 - 🎮 Contact:
   - discord: michal#3454
