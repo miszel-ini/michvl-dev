@@ -3,7 +3,7 @@
 - 💻 future java developer
 - 🎮 Contact:
   - discord: michal#3454
-  - ig: miszel.ini
+
   
 
 <!---
