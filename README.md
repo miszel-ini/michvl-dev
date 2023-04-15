@@ -1,5 +1,5 @@
 # 📌 About Me:
-💻 I'm currently working on plugins minecraft and mta-sa scripts<br>📚 I'm actually learning Java<br>⚡ I'm a electrican worker<br><br>📧 Contact: michvl.#9379 / michal#3454<br>
+💻 I'm currently working on plugins minecraft and mta-sa scripts<br>📚 I'm actually learning Java<br>⚡ I'm a electrican worker<br><br>📧 Contact: <br> Discord: michvl.#9379 / michal#3454<br>
 
 
 # 💻 Tech Stack:
